@@ -7,4 +7,11 @@
 #
 # Checkpoint 1:
 # https://youtu.be/bvglPX2DZfY
-# For checkpoint 1, Git has been setup and the repository cloned down to my local instance.  For this Checkpoint, I am installing Unreal 4 and making sure that the hardware is capable of running the software for development.  Options for automatically generated mazes are being investigated.
+# For Checkpoint 1, Git has been setup and the repository cloned down to my local instance.  For this Checkpoint, I am installing Unreal 4 and making sure that the hardware is capable of running the software for development.  Options for automatically generated mazes are being investigated.
+#
+#
+# Checkpoint 2:
+# https://youtu.be/OzhwrTZ69Lw
+# For Checkpoint 2, Git has been initialized with a default Unreal 4 ignore file, readme file, and the the initial upload of an Unreal 4 First Person Templete for the basis of my software development.  Additional options for open source mazes are still being investigated as well for quicker testing environment development.
+
+
