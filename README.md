@@ -18,4 +18,8 @@
 # Checkpoint 3:
 # https://youtu.be/UyYY8_i4H4E
 # For Checkpoint 3, Maze Creator template and Sweet Home 3D are being investigated and compared for generation of a city block maze.  I have tested generation of mazes using the Maze Creator template, and will most likely move forward with my own custom 3D maze since the settings do not allow for a realistic block layout, but rather a symmetric hallway maze with various rooms.
-
+#
+#
+# Checkpoint 4:
+# https://youtu.be/QC12xepoSxQ
+# For Checkpoint 4, Sweet Home 3D has been chosen and a 3D maze has been created.  The maze has been exported out to an OBJ and imported into the Unreal Engine project.  I have updated the first person user interface to now start at the appropriate location and allow for movement through the rooms and hallways of the maze.
