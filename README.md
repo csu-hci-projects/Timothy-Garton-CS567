@@ -23,3 +23,8 @@
 # Checkpoint 4:
 # https://youtu.be/QC12xepoSxQ
 # For Checkpoint 4, Sweet Home 3D has been chosen and a 3D maze has been created.  The maze has been exported out to an OBJ and imported into the Unreal Engine project.  I have updated the first person user interface to now start at the appropriate location and allow for movement through the rooms and hallways of the maze.
+#
+#
+# Checkpoint 5:
+# https://youtu.be/WEvrNCYpeg8
+# For Checkpoint 5, coding has been completed and testing has begun.  The maze package has been exported to a Windows 10 x64 application and can now be run to collect data.  At this point, users will now begin running the program and times will be recorded for how long it takes to complete the task of exiting the maze.  Stimuli in the form of Steam, Sparks, Fire, Smoke, and Particles have all been introduced and will be used to compare how a simulation run is completed versus how a computer algorithm thinks the best path is during future work expansions.
